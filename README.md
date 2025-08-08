@@ -15,10 +15,10 @@ A secure and responsive login system built with PHP, MySQL, HTML, and CSS. Imple
 - Responsive HTML/CSS design
 
 ## Screenshot
-![Landing page before login](landing-page-before-login.png)
-![Login Page](login-page.png)
-![Registration Page](registration-page.png)
-![Landing page after login](landing-page-after-login.png)
+![Landing page before login](image.png)
+![Login Page](image2.png)
+![Registration Page](image3.png)
+![Landing page after login](image4.png)
 ## Requirements
 - PHP 7.4+ (or newer)
 - MySQL 5.7+ / MariaDB
